@@ -1,0 +1,14 @@
+[
+  {
+    "department": "Finance",
+    "employees": ["Via Radovan", "Ahcie Demillo", "Jhonna Rabaya"]
+  },
+  {
+    "department": "IT",
+    "employees": ["Raven Manalastas", "Joyce Rabaya"]
+  },
+  {
+    "department": "Human Resources",
+    "employees": ["Andrea Cantor", "Georgia Rona Caracurl"]
+  }
+]
