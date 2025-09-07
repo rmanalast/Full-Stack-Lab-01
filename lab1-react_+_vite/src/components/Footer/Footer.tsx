@@ -1,3 +1,4 @@
+// This component renders the footer section of the application.
 import "./Footer.css";
 
 function Footer() {

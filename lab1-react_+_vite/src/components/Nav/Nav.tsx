@@ -1,3 +1,4 @@
+// This component renders the navigation bar with links to different sections of the application.
 import "./Nav.css";
 
 function Nav() {

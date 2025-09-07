@@ -1,7 +1,9 @@
+// This component fetches and displays an employee directory grouped by departments.
 import { useEffect, useState } from "react";
 import type { Department } from "../../types/types";
 import "./EmployeeDirectory.css";
 
+// This function is responsible for fetching and displaying the employee directory.
 function EmployeeDirectory() {
   const [departments, setDepartments] = useState<Department[]>([]);
   const [error, setError] = useState("");
@@ -18,6 +20,7 @@ function EmployeeDirectory() {
 
   if (error) return <p>{error}</p>;
 
+  // Returning the main structure of the employee directory.
   return (
     <main className="container">
       <section className="employee-directory">

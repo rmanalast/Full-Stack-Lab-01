@@ -1,3 +1,4 @@
+// This component renders the header section of the application.
 import "./Header.css";
 
 function Header() {
