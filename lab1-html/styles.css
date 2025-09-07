@@ -65,13 +65,13 @@
     box-shadow: 0 0 3px rgba(0, 123, 255, 0.3);
   }
 
-  /* FOOTER */
+  /* Footer */
   footer {
     position: fixed;
     bottom: 0;
     right: 1em;
   }
-  /* NAV */
+  /* Nav */
   nav {
     display: flex;
     justify-content: space-between;
